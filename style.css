@@ -1,0 +1,68 @@
+.colheader {background-color: #39474E}
+
+button {float: right;}
+
+.toprightmenu {float: right;}
+
+.topleftmenu {display: inline;}
+
+.topleftmenu li {
+  display: inline;
+}
+.toprightmenu li {display: inline;}
+
+h1 {text-align: center;
+  color: white;
+float: left;
+margin-top: 350px;}
+
+.mainimage {background-image: url('../images/TIYPic.jpg');
+height: 600px;
+background-size: cover;
+background-position: center;
+}
+.logos {background-color: #eeeeee;}
+
+p {text-align: center;}
+
+.underlogos {margin-top: 50px;}
+ h4 {text-align: center;}
+
+.graybox {background-color: gray;
+padding: 20px;
+height:300px;
+border-radius: 5px;
+}
+.emailbox {background-color: white;
+width: 150px;
+margin: 0 auto;
+border-radius: 5px;}
+
+@media query {max-width: 767px;
+
+}
+
+img {margin-left: 90px;}
+
+.employers {background-color: gray;}
+
+.grayboxone {background-color: gray;
+padding: 20px;
+height: 250px;}
+
+.footer {padding: 50px;}
+
+.courses {padding: 100px;}
+
+.phonenumber {background-color: white;
+width: 150px;
+margin: 0 auto;}
+
+.grayboxtwo {background-color: gray;
+padding: 20px;
+height: 250px;}
+
+.email {background-color: white;
+margin: 0 auto;}
+
+.courses {background-color: #eeeeee;}
